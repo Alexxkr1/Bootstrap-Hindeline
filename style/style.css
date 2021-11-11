@@ -1,0 +1,16 @@
+
+
+.bootstrap-text{
+    color: #563d7c;
+}
+.html5-text{
+    color: #de4c24;
+}
+.css3-text{
+    color: #0170ba;
+}
+
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
+}
